@@ -9,8 +9,6 @@
 
 **Sistem monitoring real-time untuk Multiple OLT EPON/GPON dengan notifikasi WhatsApp otomatis**
 
-[Demo](#-demo) • [Instalasi](#-instalasi-cepat) • [Dokumentasi](#-dokumentasi) • [Kontribusi](#-kontribusi)
-
 </div>
 
 ---
